@@ -1,7 +1,8 @@
+pymongo
+dnspython
+pandas 
+numpy
+ensure
 pytest
-black
-test
-flake8
-mypy
 
 -e .
